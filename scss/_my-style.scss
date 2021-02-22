@@ -9,3 +9,11 @@
       color: $cThird;
    }
 }
+li[data-filter] {
+   text-transform: uppercase;
+}
+.menu-content {
+   a {
+      text-transform: capitalize;
+   }
+}

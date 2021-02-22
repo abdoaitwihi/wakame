@@ -1836,4 +1836,12 @@ section {
   opacity: 0.7;
   color: var(--c-third);
 }
+
+li[data-filter] {
+  text-transform: uppercase;
+}
+
+.menu-content a {
+  text-transform: capitalize;
+}
 /*# sourceMappingURL=style.css.map */
